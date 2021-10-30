@@ -1,0 +1,1 @@
+Hello, my name is Paul, I just turned 19 and I recently discovered a passion for coding, especially in React. My favorite programming language is Javascript, it's just so versatile, you can do a lot of things with it. I'm still working on this file so stay tuned
